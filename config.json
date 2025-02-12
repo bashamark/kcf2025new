@@ -1,12 +1,12 @@
 {
-    "ad_status": "1",
-    "banner_ad_id": "ca-app-pub-9523725970329735/1582777730",
-    "native_ad_id": "ca-app-pub-9523725970329735/3418501959",
-    "one_signal_id": "b86f98b6-9cf5-4ebc-80e3-1c9a23252ef2",
-    "app_open_ad_id": "ca-app-pub-9523725970329735/4458437642",
-    "enable_autoplay": false,
-    "now_playing_text": "MCF 98.7FM",
+    "ad_status": "0",
+    "banner_ad_id": "ca-app-pub-9523725970329735/1582777000",
+    "native_ad_id": "ca-app-pub-9523725970329735/3418501000",
+    "one_signal_id": "b86f98b6-9cf5-4ebc-80e3-1c9a23252000",
+    "app_open_ad_id": "ca-app-pub-9523725970329735/4458437000",
+    "enable_autoplay": true,
+    "now_playing_text": "KCF Radio",
     "radio_stream_url": "https://streams.radio.co/s79fbbb432/listen",
-    "interstitial_ad_id": "ca-app-pub-9523725970329735/2242968654",
+    "interstitial_ad_id": "ca-app-pub-9523725970329735/2242968000",
     "interstitial_frequency_play_pause": 3
 }
