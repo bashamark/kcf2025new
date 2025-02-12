@@ -6,7 +6,7 @@
     "app_open_ad_id": "ca-app-pub-9523725970329735/4458437000",
     "enable_autoplay": true,
     "now_playing_text": "KCF Radio",
-    "radio_stream_url": "https://streams.radio.co/s79fbbb432/listen",
+    "radio_stream_url": "http://c24.radioboss.fm:8185/stream",
     "interstitial_ad_id": "ca-app-pub-9523725970329735/2242968000",
     "interstitial_frequency_play_pause": 3
 }
